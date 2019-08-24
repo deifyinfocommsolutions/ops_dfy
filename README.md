@@ -1,2 +1,1 @@
-# ops_dfy
-Ops portal for Talentio
+Ops Portal for iBeads
